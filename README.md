@@ -64,13 +64,13 @@ Follow this steps to get Working Project!
 ## ✨ Screenshots
 
 <div style="display:flex;">
-<img src="ScreenShots/img01.png" width="200">
-<img src="ScreenShots/img02.png" width="200">
-<img src="ScreenShots/img03.png" width="200">
-<img src="ScreenShots/img04.png" width="200">
+<img src="ScreenShots/img01.jpeg" width="200">
+<img src="ScreenShots/img02.jpeg" width="200">
+<img src="ScreenShots/img03.jpeg" width="200">
+<img src="ScreenShots/img04.jpeg" width="200">
 </div>
 <br>
 <div style="display:flex;">
-<img src="ScreenShots/img05.png" width="200">
-<img src="ScreenShots/img06.png" width="200">
+<img src="ScreenShots/img05.jpeg" width="200">
+<img src="ScreenShots/img06.jpeg" width="200">
 </div>
